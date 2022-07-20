@@ -1,0 +1,6 @@
+[submodule "LSSTSCaffiliations/d3"]
+	path = LSSTSCaffiliations/d3
+	url = https://github.com/d3/d3.git
+[submodule "LSSTSCaffiliations/data/d3"]
+	path = LSSTSCaffiliations/data/d3
+	url = https://github.com/d3/d3.git
